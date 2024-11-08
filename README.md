@@ -1,4 +1,4 @@
-AutoGPT Rust Application
+
 AutoGPT Rust Application is a project designed to leverage the power of Rust for creating autonomous agents that can perform complex tasks, combining the strengths of the language's memory safety, high performance, and concurrency capabilities. This application follows the principles of AutoGPT, allowing for automated task planning and execution without direct user interaction, ideal for building AI-driven assistants, bots, or automation tools.
 
 Key Features
