@@ -14,4 +14,4 @@ async-trait = "0.1.68"
 webbrowser = "0.8.9"
 strum = "0.24.1"
 strum_macros = "0.24.3"
-ai_functions = "0.1.1"
+proc_macro = { path = "./proc_macro" }
